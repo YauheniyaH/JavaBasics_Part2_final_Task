@@ -1,0 +1,3 @@
+module NoteBook {
+	requires junit;
+}
